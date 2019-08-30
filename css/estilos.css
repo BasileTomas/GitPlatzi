@@ -28,6 +28,7 @@ body{
     font-size: 0.8em;
 }
 
+<<<<<<< HEAD
 #container{
     width: 70%;
     padding: 0;
@@ -37,6 +38,10 @@ body{
 }
 
 #container h1{
+=======
+#container h1 
+{
+>>>>>>> 3e80659440533205a05d39951b23b3249feb7c04
     font-size: 20px;
 }
 
